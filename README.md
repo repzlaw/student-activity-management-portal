@@ -49,12 +49,12 @@ This is a comprehensive student portal designed to facilitate student and admin 
 
 1. Clone the repository:
    ```bash
-   git clone https://kanoci@dev.azure.com/kanoci/kanocentral/_git/kanocentral
+   git clone https://github.com/repzlaw/student-activity-management-portal
 
 
 2. Navigate to the project directory:
    ```bash
-   cd kano-central
+   cd student-activity-management-portal
 
 3. Install dependencies:
    ```bash
@@ -78,5 +78,9 @@ This is a comprehensive student portal designed to facilitate student and admin 
 7. Serve the application:
    ```bash
    php artisan serve
-# student-activity-management-portal
-# student-activity-management-portal
+
+![Dashboard](https://res.cloudinary.com/sirdavies/image/upload/v1721722277/readme/Screenshot_2024-07-23_at_9.10.28_AM_qekhuw.png)
+
+![Activity](https://res.cloudinary.com/sirdavies/image/upload/v1721722276/readme/Screenshot_2024-07-23_at_9.09.31_AM_j0ebzn.png)
+
+![Events](https://res.cloudinary.com/sirdavies/image/upload/v1721722276/readme/Screenshot_2024-07-23_at_9.09.47_AM_xpjigw.png)
